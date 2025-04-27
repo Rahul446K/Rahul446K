@@ -20,9 +20,6 @@
 - **LinkedIn**: [Rahul Kumar's LinkedIn](https://www.linkedin.com/in/rahul-kumar-04a5351a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFIRKE3G%2FR%2Barc0VIkYKQKg%3D%3D)
 
 ---
-
-After editing, scroll down and add a commit message like "Updated README with new project details" and commit the changes. Let me know if you need further assistance!
-
 <!--
 **Rahul446K/Rahul446K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
