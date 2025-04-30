@@ -4,7 +4,7 @@
 - 🌟 B.Tech 3rd-year student passionate about technology and programming
 - 🌱 Currently learning Machine Learning, Data Structures, and Algorithms
 - 🎯 Aspiring to become a Software Engineer
-- 💬 Ask me about Machine Learning, C++, Python, and Data Analysis
+- 💬 Ask me about Machine Learning, C++, Python
 
 ### 🛠️ Tech Stack:
 - **Languages**: C++, Python
