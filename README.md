@@ -1,7 +1,7 @@
 # Hi, I'm Rahul Kumar 👋
 
 ### 🚀 About Me:
-- 🌟 B.Tech 3rd-year student passionate about technology and programming
+- 🌟 B.Tech **Final year** student passionate about technology and programming
 - 🌱 Currently learning Machine Learning, Data Structures, and Algorithms
 - 🎯 Aspiring to become a Software Engineer
 - 💬 Ask me about Machine Learning, C++, Python
